@@ -30,7 +30,7 @@
 <body>
     <div class="saludo">
         <?php
-            echo "¡Hola Mundo!";
+            echo "¡ESTA VIVO!";
         ?>
     </div>
 </body>
